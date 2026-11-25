@@ -1,0 +1,1 @@
+// maps "gpt", "gemini" & "claude" to a provider + pinned ID model

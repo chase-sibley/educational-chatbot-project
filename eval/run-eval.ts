@@ -1,0 +1,1 @@
+// sends same questions to each model
